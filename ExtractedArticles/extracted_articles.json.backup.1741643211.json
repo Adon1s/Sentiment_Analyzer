@@ -1,0 +1,362 @@
+[
+  {
+    "url": "https://finance.yahoo.com/topic/latest-news",
+    "provided_title": "View More",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (12920) when reading Header value is too long.', url='https://finance.yahoo.com/topic/latest-news/'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nyc-congestion-pricing-set-effect-202916097.html",
+    "provided_title": "NYC congestion pricing set to take effect after years of delays",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/maduro-rival-seeks-biden-talks-202719906.html",
+    "provided_title": "Maduro Rival Seeks Biden Talks Before Venezuela’s Inauguration",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/austria-chancellor-nehammer-quits-coalition-190404155.html",
+    "provided_title": "Austrian Chancellor Nehammer Quits as Coalition Talks Fail",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/low-bond-spreads-five-numbers-200000480.html",
+    "provided_title": "How low can bond spreads go? Five numbers to watch",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/biden-ban-oil-drilling-over-040842217.html",
+    "provided_title": "Biden to ban new oil drilling over vast stretch of US Atlantic, Pacific waters",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/boeing-ended-difficult-2024-biggest-094501398.html",
+    "provided_title": "Boeing ended its difficult 2024 as the biggest loser in the Dow Jones index",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10351) when reading Header value is too long.', url='https://finance.yahoo.com/news/boeing-ended-difficult-2024-biggest-094501398.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/hedge-funds-soared-amid-big-164000834.html",
+    "provided_title": "These hedge funds soared amid big gains for US stocks and the dollar",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (11650) when reading Header value is too long.', url='https://finance.yahoo.com/news/hedge-funds-soared-amid-big-164000834.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/ai-stocks-watch-apple-tv-140000580.html",
+    "provided_title": "AI stocks to watch, Apple TV tries free, and the Chips Act scramble: Tech roundup",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (11650) when reading Header value is too long.', url='https://finance.yahoo.com/news/ai-stocks-watch-apple-tv-140000580.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/wall-street-top-banks-just-140000186.html",
+    "provided_title": "Wall Street’s Top Banks Just Abandoned a Once Popular Alliance",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/p-global-price-target-lowered-130534578.html",
+    "provided_title": "S&P Global price target lowered to $580 from $590 at Oppenheimer",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10351) when reading Header value is too long.', url='https://finance.yahoo.com/news/p-global-price-target-lowered-130534578.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/tractor-supply-target-adjusted-stock-125515043.html",
+    "provided_title": "Tractor Supply target adjusted for stock split at Evercore ISI",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (16568) when reading Header value is too long.', url='https://finance.yahoo.com/news/tractor-supply-target-adjusted-stock-125515043.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/m/539777b7-ba2e-3d67-baf5-9b4f269daa4a/jobs-report-fed-minutes-.html",
+    "provided_title": "Jobs Report, Fed Minutes, Delta Earnings: What to Watch Next Week",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (12951) when reading Header value is too long.', url='https://finance.yahoo.com/m/539777b7-ba2e-3d67-baf5-9b4f269daa4a/jobs-report-fed-minutes-.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/q3-earnings-highlights-coupang-nyse-090904592.html",
+    "provided_title": "Q3 Earnings Highlights: Coupang (NYSE:CPNG) Vs The Rest Of The Online Retail Stocks",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (11651) when reading Header value is too long.', url='https://finance.yahoo.com/news/q3-earnings-highlights-coupang-nyse-090904592.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/unpacking-q3-earnings-hain-celestial-090849049.html",
+    "provided_title": "Unpacking Q3 Earnings: Hain Celestial (NASDAQ:HAIN) In The Context Of Other Shelf-Stable Food Stocks",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (14250) when reading Header value is too long.', url='https://finance.yahoo.com/news/unpacking-q3-earnings-hain-celestial-090849049.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/industrial-packaging-q3-earnings-international-090822582.html",
+    "provided_title": "Industrial Packaging Q3 Earnings: International Paper (NYSE:IP) is the Best in the Biz",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10351) when reading Header value is too long.', url='https://finance.yahoo.com/news/industrial-packaging-q3-earnings-international-090822582.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/specialty-equipment-distributors-stocks-q3-090757503.html",
+    "provided_title": "Specialty Equipment Distributors Stocks Q3 Earnings: Richardson Electronics (NASDAQ:RELL) Best of the Bunch",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10350) when reading Header value is too long.', url='https://finance.yahoo.com/news/specialty-equipment-distributors-stocks-q3-090757503.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/lowes-low-buy-sell-hold-090711107.html",
+    "provided_title": "Lowe's (LOW): Buy, Sell, or Hold Post Q3 Earnings?",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (9051) when reading Header value is too long.', url='https://finance.yahoo.com/news/lowes-low-buy-sell-hold-090711107.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/could-drive-consumer-spending-2025-214717345.html",
+    "provided_title": "This is what could drive consumer spending in 2025",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (11650) when reading Header value is too long.', url='https://finance.yahoo.com/video/could-drive-consumer-spending-2025-214717345.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/wall-street-strategists-2025-years-170000264.html",
+    "provided_title": "Wall Street strategists' 2025 New Year's resolutions for investors",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (12950) when reading Header value is too long.', url='https://finance.yahoo.com/video/wall-street-strategists-2025-years-170000264.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/markets-more-room-run-2025-221349316.html",
+    "provided_title": "Markets have 'more room to run' in 2025: Strategist",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (12950) when reading Header value is too long.', url='https://finance.yahoo.com/video/markets-more-room-run-2025-221349316.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/magnificent-7-keep-dominating-2025-171331442.html",
+    "provided_title": "Can the Magnificent 7 keep dominating in 2025?",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (9051) when reading Header value is too long.', url='https://finance.yahoo.com/video/magnificent-7-keep-dominating-2025-171331442.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/minimum-wage-just-went-up-in-these-21-states-133030468.html",
+    "provided_title": "Minimum wage just went up in these 21 states",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (12951) when reading Header value is too long.', url='https://finance.yahoo.com/news/minimum-wage-just-went-up-in-these-21-states-133030468.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/listing-a-home-in-2025-here-are-the-designs-experts-say-buyers-want-124007332.html",
+    "provided_title": "Listing a home in 2025? Here are the designs experts say buyers want.",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10350) when reading Header value is too long.', url='https://finance.yahoo.com/news/listing-a-home-in-2025-here-are-the-designs-experts-say-buyers-want-124007332.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/beer-and-alcohol-stocks-face-bigger-challenges-as-us-surgeon-general-links-drinking-to-cancer-risk-202756782.html",
+    "provided_title": "Beer and alcohol stocks face bigger challenges as US surgeon general links drinking to cancer risk",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10351) when reading Header value is too long.', url='https://finance.yahoo.com/news/beer-and-alcohol-stocks-face-bigger-challenges-as-us-surgeon-general-links-drinking-to-cancer-risk-202756782.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/mike-johnson-reelected-as-house-speaker-after-a-new-promise-to-work-with-musks-doge-201052316.html",
+    "provided_title": "Mike Johnson reelected as House speaker after a new promise to work with Musk's 'DOGE'",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (11650) when reading Header value is too long.', url='https://finance.yahoo.com/news/mike-johnson-reelected-as-house-speaker-after-a-new-promise-to-work-with-musks-doge-201052316.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/rivian-stock-surges-to-start-the-year-on-better-than-expected-ev-deliveries-173904321.html",
+    "provided_title": "Rivian stock surges to start the year on better-than-expected EV deliveries",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10350) when reading Header value is too long.', url='https://finance.yahoo.com/news/rivian-stock-surges-to-start-the-year-on-better-than-expected-ev-deliveries-173904321.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/ford-sales-jumped-42-last-year-powered-by-f-series-trucks-170253457.html",
+    "provided_title": "Ford sales jumped 4.2% last year, powered by F-Series trucks",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10350) when reading Header value is too long.', url='https://finance.yahoo.com/news/ford-sales-jumped-42-last-year-powered-by-f-series-trucks-170253457.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-stock-jumps-leads-magnificent-7-gains-to-start-2025-after-end-of-year-tech-sell-off-154139053.html",
+    "provided_title": "Nvidia stock jumps, leads 'Magnificent 7' gains to start 2025 after end-of-year tech sell-off",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (14251) when reading Header value is too long.', url='https://finance.yahoo.com/news/nvidia-stock-jumps-leads-magnificent-7-gains-to-start-2025-after-end-of-year-tech-sell-off-154139053.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/biden-blocks-us-steels-14-billion-sale-to-japanese-giant-nippon-steel-145927959.html",
+    "provided_title": "Biden blocks US Steel's $14 billion sale to Japanese giant Nippon Steel",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (14250) when reading Header value is too long.', url='https://finance.yahoo.com/news/biden-blocks-us-steels-14-billion-sale-to-japanese-giant-nippon-steel-145927959.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/musk-standing-way-bezos-reaches-180904582.html",
+    "provided_title": "Commentary: Elon Musk is standing in the way as Jeff Bezos reaches for orbit",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (14251) when reading Header value is too long.', url='https://finance.yahoo.com/news/musk-standing-way-bezos-reaches-180904582.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/don-t-blame-car-sharing-230024502.html",
+    "provided_title": "Don’t Blame Car-Sharing Site Turo for Vehicle Attacks",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10350) when reading Header value is too long.', url='https://finance.yahoo.com/news/don-t-blame-car-sharing-230024502.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/top-tiktok-north-american-ad-210315537.html",
+    "provided_title": "Top TikTok North American Ad Sales Exec to Depart",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (11650) when reading Header value is too long.', url='https://finance.yahoo.com/news/top-tiktok-north-american-ad-210315537.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/equities-rise-markets-assess-manufacturing-214829588.html",
+    "provided_title": "Equities Rise as Markets Assess Manufacturing Data, Fed Official's Comments",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10351) when reading Header value is too long.', url='https://finance.yahoo.com/news/equities-rise-markets-assess-manufacturing-214829588.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/oil-rig-count-falls-1-204016578.html",
+    "provided_title": "Oil Rig Count Falls by 1; Crude Price Headed for 2nd Straight Weekly Gain",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (9050) when reading Header value is too long.', url='https://finance.yahoo.com/news/oil-rig-count-falls-1-204016578.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/ford-gm-log-gains-2024-200446358.html",
+    "provided_title": "Ford, GM Log Gains in 2024 US Vehicle Sales",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10351) when reading Header value is too long.', url='https://finance.yahoo.com/news/ford-gm-log-gains-2024-200446358.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/equities-rise-intraday-traders-parse-183512208.html",
+    "provided_title": "Equities Rise Intraday as Traders Parse Manufacturing Data, Fed Official's Comments",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (12950) when reading Header value is too long.', url='https://finance.yahoo.com/news/equities-rise-intraday-traders-parse-183512208.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/economic-outlook-2025-positive-inflation-181825982.html",
+    "provided_title": "Economic Outlook for 2025 Positive But Inflation Risks Persist, Richmond Fed's Barkin Says",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (16568) when reading Header value is too long.', url='https://finance.yahoo.com/news/economic-outlook-2025-positive-inflation-181825982.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/mortgage-brokers-made-rate-hikes-070000566.html",
+    "provided_title": "Mortgage Brokers Made Rate Hikes More Painful, Says Bank of England",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/us-30-fixed-rate-mortgage-173752445.html",
+    "provided_title": "US 30-year fixed-rate mortgage flirts with 7%",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (14250) when reading Header value is too long.', url='https://finance.yahoo.com/news/us-30-fixed-rate-mortgage-173752445.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/average-rate-30-u-mortgage-171537608.html",
+    "provided_title": "Average rate on a 30-year U.S. mortgage hits 6.91%, according to Freddie Mac, the highest since July",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10350) when reading Header value is too long.', url='https://finance.yahoo.com/news/average-rate-30-u-mortgage-171537608.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/mortgage-rates-start-2025-near-7-hitting-highest-level-since-july-170041049.html",
+    "provided_title": "Mortgage rates start 2025 near 7%, hitting highest level since July",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10350) when reading Header value is too long.', url='https://finance.yahoo.com/news/mortgage-rates-start-2025-near-7-hitting-highest-level-since-july-170041049.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/us-mortgage-rates-rise-highest-120000062.html",
+    "provided_title": "US Mortgage Rates Approach 7% in Ominous Sign for Housing Market",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/singapore-home-prices-rebound-end-060713984.html",
+    "provided_title": "Singapore’s Home Prices Rebound on Year-End Sales Boom",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/australian-home-prices-finally-cool-133613792.html",
+    "provided_title": "Australian home prices finally cool as 2024 comes to an end",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10351) when reading Header value is too long.', url='https://finance.yahoo.com/news/australian-home-prices-finally-cool-133613792.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/football-star-lionel-messi-holds-082541775.html",
+    "provided_title": "Football Star Lionel Messi Lists His Real Estate Assets",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-saturday-january-4-2025-110005503.html",
+    "provided_title": "Mortgage and refinance rates today, January 4, 2025: Fixed rates hardly move",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10351) when reading Header value is too long.', url='https://finance.yahoo.com/personal-finance/article/mortgage-refinance-rates-today-january-110005256.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/personal-finance/article/advantages-of-dry-january-saving-money-192611061.html",
+    "provided_title": "A hidden benefit of Dry January: You could save hundreds of dollars this month",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10351) when reading Header value is too long.', url='https://finance.yahoo.com/personal-finance/banking/article/advantages-of-dry-january-saving-money-192611061.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/know-apples-95-million-settlement-184509384.html",
+    "provided_title": "What to know about Apple's $95 million settlement of the snooping Siri case",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10350) when reading Header value is too long.', url='https://finance.yahoo.com/news/know-apples-95-million-settlement-184509384.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/spacexs-starship-deploy-mock-satellites-171858786.html",
+    "provided_title": "SpaceX's Starship to deploy mock satellites in next test",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (11650) when reading Header value is too long.', url='https://finance.yahoo.com/news/spacexs-starship-deploy-mock-satellites-171858786.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/cryptic-posts-drive-stocks-bitcoin-140000845.html",
+    "provided_title": "Cryptic posts drive stocks, and Bitcoin turns 16: Markets roundup",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10350) when reading Header value is too long.', url='https://finance.yahoo.com/news/cryptic-posts-drive-stocks-bitcoin-140000845.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/red-flags-few-more-glaring-110000465.html",
+    "provided_title": "As red flags go there can be few more glaring than Trump’s crypto plans",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (12950) when reading Header value is too long.', url='https://finance.yahoo.com/news/red-flags-few-more-glaring-110000465.html'",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/microsoft-spend-80-billion-ai-191302185.html",
+    "provided_title": "Microsoft to spend $80 billion on AI data centers this year",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (12950) when reading Header value is too long.', url='https://finance.yahoo.com/news/microsoft-spend-80-billion-ai-191302185.html'",
+    "input_timestamp": "2025-01-04 15:35:41"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/trump-slams-uk-very-big-165707730.html",
+    "provided_title": "Trump slams UK’s ‘very big mistake’ on North Sea energy policy",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:44:48"
+  },
+  {
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/money-market-account-rates-today-saturday-january-4-2025-110050610.html",
+    "provided_title": "Money market account rates today, January 4, 2025 (best account provides 5.00% APY)",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (11651) when reading Header value is too long.', url='https://finance.yahoo.com/personal-finance/article/money-market-account-rates-today-110050534.html'",
+    "input_timestamp": "2025-01-04 15:50:54"
+  },
+  {
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/savings-interest-rates-today-saturday-january-4-2025-110015511.html",
+    "provided_title": "Savings interest rates today, January 4, 2025 (best account provides 4.75% APY)",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10350) when reading Header value is too long.', url='https://finance.yahoo.com/personal-finance/article/savings-interest-rates-today-january-110015945.html'",
+    "input_timestamp": "2025-01-04 15:50:54"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/rolex-retail-prices-jump-in-2025-as-used-prices-continue-to-tumble-160046896.html",
+    "provided_title": "Rolex retail prices jump in 2025 as used prices continue to tumble",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10351) when reading Header value is too long.', url='https://finance.yahoo.com/news/rolex-retail-prices-jump-in-2025-as-used-prices-continue-to-tumble-160046896.html'",
+    "input_timestamp": "2025-01-04 15:52:55"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/what-do-people-regret-the-most-when-they-retire-143035482.html",
+    "provided_title": "What do people regret the most when they retire?",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10351) when reading Header value is too long.', url='https://finance.yahoo.com/news/what-do-people-regret-the-most-when-they-retire-143035482.html'",
+    "input_timestamp": "2025-01-04 15:52:55"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/this-week-in-bidenomics-stranded-steelworkers-150036188.html",
+    "provided_title": "This week in Bidenomics: Stranded steelworkers",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10350) when reading Header value is too long.', url='https://finance.yahoo.com/news/this-week-in-bidenomics-stranded-steelworkers-150036188.html'",
+    "input_timestamp": "2025-01-04 15:52:55"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/tiktok-offers-early-2025-test-for-supreme-court-140059106.html",
+    "provided_title": "TikTok offers early 2025 test for Supreme Court",
+    "error": "Connection error: 400, message='Got more than 8190 bytes (10350) when reading Header value is too long.', url='https://finance.yahoo.com/news/tiktok-offers-early-2025-test-for-supreme-court-140059106.html'",
+    "input_timestamp": "2025-01-04 15:52:55"
+  }
+]

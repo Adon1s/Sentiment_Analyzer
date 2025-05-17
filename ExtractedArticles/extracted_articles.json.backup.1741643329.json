@@ -1,0 +1,1202 @@
+[
+  {
+    "url": "https://finance.yahoo.com/topic/latest-news",
+    "provided_title": "View More",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nyc-congestion-pricing-set-effect-202916097.html",
+    "provided_title": "NYC congestion pricing set to take effect after years of delays",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/maduro-rival-seeks-biden-talks-202719906.html",
+    "provided_title": "Maduro Rival Seeks Biden Talks Before Venezuela’s Inauguration",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/austria-chancellor-nehammer-quits-coalition-190404155.html",
+    "provided_title": "Austrian Chancellor Nehammer Quits as Coalition Talks Fail",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/low-bond-spreads-five-numbers-200000480.html",
+    "provided_title": "How low can bond spreads go? Five numbers to watch",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/biden-ban-oil-drilling-over-040842217.html",
+    "provided_title": "Biden to ban new oil drilling over vast stretch of US Atlantic, Pacific waters",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/boeing-ended-difficult-2024-biggest-094501398.html",
+    "provided_title": "Boeing ended its difficult 2024 as the biggest loser in the Dow Jones index",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/hedge-funds-soared-amid-big-164000834.html",
+    "provided_title": "These hedge funds soared amid big gains for US stocks and the dollar",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/ai-stocks-watch-apple-tv-140000580.html",
+    "provided_title": "AI stocks to watch, Apple TV tries free, and the Chips Act scramble: Tech roundup",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/wall-street-top-banks-just-140000186.html",
+    "provided_title": "Wall Street’s Top Banks Just Abandoned a Once Popular Alliance",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/p-global-price-target-lowered-130534578.html",
+    "provided_title": "S&P Global price target lowered to $580 from $590 at Oppenheimer",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/tractor-supply-target-adjusted-stock-125515043.html",
+    "provided_title": "Tractor Supply target adjusted for stock split at Evercore ISI",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/m/539777b7-ba2e-3d67-baf5-9b4f269daa4a/jobs-report-fed-minutes-.html",
+    "provided_title": "Jobs Report, Fed Minutes, Delta Earnings: What to Watch Next Week",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/q3-earnings-highlights-coupang-nyse-090904592.html",
+    "provided_title": "Q3 Earnings Highlights: Coupang (NYSE:CPNG) Vs The Rest Of The Online Retail Stocks",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/unpacking-q3-earnings-hain-celestial-090849049.html",
+    "provided_title": "Unpacking Q3 Earnings: Hain Celestial (NASDAQ:HAIN) In The Context Of Other Shelf-Stable Food Stocks",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/industrial-packaging-q3-earnings-international-090822582.html",
+    "provided_title": "Industrial Packaging Q3 Earnings: International Paper (NYSE:IP) is the Best in the Biz",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/specialty-equipment-distributors-stocks-q3-090757503.html",
+    "provided_title": "Specialty Equipment Distributors Stocks Q3 Earnings: Richardson Electronics (NASDAQ:RELL) Best of the Bunch",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/lowes-low-buy-sell-hold-090711107.html",
+    "provided_title": "Lowe's (LOW): Buy, Sell, or Hold Post Q3 Earnings?",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/could-drive-consumer-spending-2025-214717345.html",
+    "provided_title": "This is what could drive consumer spending in 2025",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/wall-street-strategists-2025-years-170000264.html",
+    "provided_title": "Wall Street strategists' 2025 New Year's resolutions for investors",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/markets-more-room-run-2025-221349316.html",
+    "provided_title": "Markets have 'more room to run' in 2025: Strategist",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/magnificent-7-keep-dominating-2025-171331442.html",
+    "provided_title": "Can the Magnificent 7 keep dominating in 2025?",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/minimum-wage-just-went-up-in-these-21-states-133030468.html",
+    "provided_title": "Minimum wage just went up in these 21 states",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/listing-a-home-in-2025-here-are-the-designs-experts-say-buyers-want-124007332.html",
+    "provided_title": "Listing a home in 2025? Here are the designs experts say buyers want.",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/beer-and-alcohol-stocks-face-bigger-challenges-as-us-surgeon-general-links-drinking-to-cancer-risk-202756782.html",
+    "provided_title": "Beer and alcohol stocks face bigger challenges as US surgeon general links drinking to cancer risk",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/mike-johnson-reelected-as-house-speaker-after-a-new-promise-to-work-with-musks-doge-201052316.html",
+    "provided_title": "Mike Johnson reelected as House speaker after a new promise to work with Musk's 'DOGE'",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/rivian-stock-surges-to-start-the-year-on-better-than-expected-ev-deliveries-173904321.html",
+    "provided_title": "Rivian stock surges to start the year on better-than-expected EV deliveries",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/ford-sales-jumped-42-last-year-powered-by-f-series-trucks-170253457.html",
+    "provided_title": "Ford sales jumped 4.2% last year, powered by F-Series trucks",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-stock-jumps-leads-magnificent-7-gains-to-start-2025-after-end-of-year-tech-sell-off-154139053.html",
+    "provided_title": "Nvidia stock jumps, leads 'Magnificent 7' gains to start 2025 after end-of-year tech sell-off",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/biden-blocks-us-steels-14-billion-sale-to-japanese-giant-nippon-steel-145927959.html",
+    "provided_title": "Biden blocks US Steel's $14 billion sale to Japanese giant Nippon Steel",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/musk-standing-way-bezos-reaches-180904582.html",
+    "provided_title": "Commentary: Elon Musk is standing in the way as Jeff Bezos reaches for orbit",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/don-t-blame-car-sharing-230024502.html",
+    "provided_title": "Don’t Blame Car-Sharing Site Turo for Vehicle Attacks",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/top-tiktok-north-american-ad-210315537.html",
+    "provided_title": "Top TikTok North American Ad Sales Exec to Depart",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/equities-rise-markets-assess-manufacturing-214829588.html",
+    "provided_title": "Equities Rise as Markets Assess Manufacturing Data, Fed Official's Comments",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/oil-rig-count-falls-1-204016578.html",
+    "provided_title": "Oil Rig Count Falls by 1; Crude Price Headed for 2nd Straight Weekly Gain",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/ford-gm-log-gains-2024-200446358.html",
+    "provided_title": "Ford, GM Log Gains in 2024 US Vehicle Sales",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/equities-rise-intraday-traders-parse-183512208.html",
+    "provided_title": "Equities Rise Intraday as Traders Parse Manufacturing Data, Fed Official's Comments",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/economic-outlook-2025-positive-inflation-181825982.html",
+    "provided_title": "Economic Outlook for 2025 Positive But Inflation Risks Persist, Richmond Fed's Barkin Says",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/mortgage-brokers-made-rate-hikes-070000566.html",
+    "provided_title": "Mortgage Brokers Made Rate Hikes More Painful, Says Bank of England",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/us-30-fixed-rate-mortgage-173752445.html",
+    "provided_title": "US 30-year fixed-rate mortgage flirts with 7%",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/average-rate-30-u-mortgage-171537608.html",
+    "provided_title": "Average rate on a 30-year U.S. mortgage hits 6.91%, according to Freddie Mac, the highest since July",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/mortgage-rates-start-2025-near-7-hitting-highest-level-since-july-170041049.html",
+    "provided_title": "Mortgage rates start 2025 near 7%, hitting highest level since July",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/us-mortgage-rates-rise-highest-120000062.html",
+    "provided_title": "US Mortgage Rates Approach 7% in Ominous Sign for Housing Market",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/singapore-home-prices-rebound-end-060713984.html",
+    "provided_title": "Singapore’s Home Prices Rebound on Year-End Sales Boom",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/australian-home-prices-finally-cool-133613792.html",
+    "provided_title": "Australian home prices finally cool as 2024 comes to an end",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/football-star-lionel-messi-holds-082541775.html",
+    "provided_title": "Football Star Lionel Messi Lists His Real Estate Assets",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-saturday-january-4-2025-110005503.html",
+    "provided_title": "Mortgage and refinance rates today, January 4, 2025: Fixed rates hardly move",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/personal-finance/article/advantages-of-dry-january-saving-money-192611061.html",
+    "provided_title": "A hidden benefit of Dry January: You could save hundreds of dollars this month",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/know-apples-95-million-settlement-184509384.html",
+    "provided_title": "What to know about Apple's $95 million settlement of the snooping Siri case",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/spacexs-starship-deploy-mock-satellites-171858786.html",
+    "provided_title": "SpaceX's Starship to deploy mock satellites in next test",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/cryptic-posts-drive-stocks-bitcoin-140000845.html",
+    "provided_title": "Cryptic posts drive stocks, and Bitcoin turns 16: Markets roundup",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/red-flags-few-more-glaring-110000465.html",
+    "provided_title": "As red flags go there can be few more glaring than Trump’s crypto plans",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:33:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/microsoft-spend-80-billion-ai-191302185.html",
+    "provided_title": "Microsoft to spend $80 billion on AI data centers this year",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:35:41"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/trump-slams-uk-very-big-165707730.html",
+    "provided_title": "Trump slams UK’s ‘very big mistake’ on North Sea energy policy",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:44:48"
+  },
+  {
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/money-market-account-rates-today-saturday-january-4-2025-110050610.html",
+    "provided_title": "Money market account rates today, January 4, 2025 (best account provides 5.00% APY)",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:50:54"
+  },
+  {
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/savings-interest-rates-today-saturday-january-4-2025-110015511.html",
+    "provided_title": "Savings interest rates today, January 4, 2025 (best account provides 4.75% APY)",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:50:54"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/rolex-retail-prices-jump-in-2025-as-used-prices-continue-to-tumble-160046896.html",
+    "provided_title": "Rolex retail prices jump in 2025 as used prices continue to tumble",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:52:55"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/what-do-people-regret-the-most-when-they-retire-143035482.html",
+    "provided_title": "What do people regret the most when they retire?",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:52:55"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/this-week-in-bidenomics-stranded-steelworkers-150036188.html",
+    "provided_title": "This week in Bidenomics: Stranded steelworkers",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:52:55"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/tiktok-offers-early-2025-test-for-supreme-court-140059106.html",
+    "provided_title": "TikTok offers early 2025 test for Supreme Court",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 15:52:55"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/biden-ban-oil-drilling-over-040842217.html",
+    "provided_title": "Biden to Ban New Oil Drilling Over Vast Stretch of US Atlantic, Pacific Waters",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:55:57"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nyc-congestion-pricing-set-effect-202916097.html",
+    "provided_title": "NYC Congestion Pricing Set to Take Effect After Years of Delays",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:56:58"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/low-bond-spreads-five-numbers-200000480.html",
+    "provided_title": "How Low Can Bond Spreads Go? Five Numbers to Watch",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 15:56:58"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/trump-slams-uk-very-big-165707730.html",
+    "provided_title": "Trump Slams UK’s ‘Very Big Mistake’ on North Sea Energy Policy",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 16:07:07"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/microsoft-spend-80-billion-ai-191302185.html",
+    "provided_title": "Microsoft to Spend $80 Billion on AI Data Centers This Year",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 16:34:30"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/wall-street-eyes-another-blockbuster-211502065.html",
+    "provided_title": "Wall Street eyes another blockbuster year for ETFs after inflows jumped to a record $1 trillion in 2024",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 16:50:43"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/december-us-jobs-report-cap-210000487.html",
+    "provided_title": "December US Jobs Report to Cap Year of Moderate Hiring",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 17:05:56"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/island-needs-elon-150024583.html",
+    "provided_title": "An Island That Needs an Elon",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 18:05:45"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/tiktok-justice-department-file-dueling-142113648.html",
+    "provided_title": "TikTok and Justice Department File Dueling Briefs to Supreme Court",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 18:05:45"
+  },
+  {
+    "url": "https://finance.yahoo.com/m/22c5c9ec-d989-3dac-bce7-cee5c6a3dd9c/ipo-stock-of-the-week-.html",
+    "provided_title": "IPO Stock Of The Week: Insurance Leader Bowhead Tests Critical Support Level",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 18:06:47"
+  },
+  {
+    "url": "https://finance.yahoo.com/personal-finance/taxes/article/is-home-equity-loan-interest-tax-deductible-200848600.html",
+    "provided_title": "Is interest paid on a home equity loan tax deductible?",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 18:06:47"
+  },
+  {
+    "url": "https://finance.yahoo.com/m/4e5cb7c1-4e01-38a6-822e-4389a4831631/nuclear-energy-stocks-enter.html",
+    "provided_title": "Nuclear Energy Stocks Enter 2025 On A High. AI Data Centers Need Them, A Lot.",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 18:06:47"
+  },
+  {
+    "url": "https://finance.yahoo.com/m/be7fa04d-a8ed-3f34-8be6-f8170dbf61d4/soundhound-rival-cerence-ai.html",
+    "provided_title": "SoundHound Rival Cerence AI Scores Nvidia Automotive Pact. Shares Surge.",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 18:06:47"
+  },
+  {
+    "url": "https://finance.yahoo.com/research/reports/MS_0P000000N0_AnalystReport_1735954902000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "provided_title": "Analyst Report: BASF SE",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 18:06:47"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/study-finds-planning-retirement-linked-113000589.html",
+    "provided_title": "Longevity Upends Traditional Financial Planning: MIT AgeLab Study",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 18:06:47"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/3-top-nuclear-stocks-buy-081500672.html",
+    "provided_title": "3 Top Nuclear Stocks to Buy in January",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 18:06:47"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/us-regulator-cautious-crypto-did-163427539.html",
+    "provided_title": "US regulator warned banks on crypto but did not order halt to business, documents show",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 18:06:47"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/paypal-accused-racial-bias-against-174539508.html",
+    "provided_title": "PayPal accused of racial bias against Asian Americans in funding program",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 18:06:47"
+  },
+  {
+    "url": "https://finance.yahoo.com/research/reports/MS_0P000001P8_AnalystReport_1735954826000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "provided_title": "Analyst Report: Diageo plc",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 18:06:47"
+  },
+  {
+    "url": "https://finance.yahoo.com/m/642fdfae-124b-37e2-9c20-e36cab1e8904/dow-pops-260-points-as-market.html",
+    "provided_title": "Dow Pops 260 Points as Market Tries to Shake Holiday Hangover",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 18:25:03"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/6-best-investments-beginners-212617909.html",
+    "provided_title": "6 best investments for beginners",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 18:25:03"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/us-jobs-report-poses-first-165206586.html",
+    "provided_title": "US jobs report poses first big stocks test of 2025",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 18:25:03"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/rivian-fourth-quarter-deliveries-beat-162108574.html",
+    "provided_title": "Rivian Fourth-Quarter Deliveries Beat Analyst Estimates; Shares Surge",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 18:25:03"
+  },
+  {
+    "url": "https://finance.yahoo.com/m/893ef79a-984d-310b-a2ce-c114936521d6/week-ahead-for-fx-bonds-.html",
+    "provided_title": "Week Ahead for FX, Bonds: U.S. Jobs Data, Fed Minutes in Focus",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 18:33:11"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/three-reasons-why-m-bullish-224721019.html",
+    "provided_title": "Three Reasons Why I’m Bullish on UBER Stock in 2025",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 19:12:43"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/maduro-rival-seeks-biden-talks-202719906.html",
+    "provided_title": "Maduro’s Rival Seeks Talks With Biden Before Venezuela’s Inauguration",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 20:00:22"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/broadcoms-chips-network-drive-growth-213435059.html",
+    "provided_title": "Broadcom's chips, network will drive growth in 2025: Analyst",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 20:00:22"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/fannie-mae-freddie-mac-going-220933859.html",
+    "provided_title": "Fannie Mae & Freddie Mac going private is 'playing with fire': Expert",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 20:00:22"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/jimmy-carter-shaped-us-energy-162538879.html",
+    "provided_title": "How Jimmy Carter shaped US energy policies",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 20:00:22"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/teslas-q4-delivery-miss-suggests-213231383.html",
+    "provided_title": "Tesla's Q4 delivery miss suggests 'investor fatigue': Analyst",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 20:00:22"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/feds-kugler-daly-job-not-230248810.html",
+    "provided_title": "Fed's Kugler, Daly say job not done on inflation",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 20:40:56"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nyc-congestion-pricing-set-effect-202916097.html",
+    "provided_title": "NYC Congestion Pricing to Take Effect After Years of Delays",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-04 23:09:56"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/bidens-decision-block-nippon-steel-050625385.html",
+    "provided_title": "Biden's decision to block Nippon Steel takeover creates uncertainty for U.S. Steel workers",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-04 23:33:15"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nyc-congestion-pricing-takes-effect-050833790.html",
+    "provided_title": "NYC Congestion Pricing Takes Effect After Years of Delays",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 01:29:52"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/germany-inc-seen-defying-downturn-070000244.html",
+    "provided_title": "Germany Inc. Seen Defying Downturn With Earnings Growth in 2025",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 01:41:04"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/gm-sales-rise-4-in-2024-powered-by-trucks-suvs-and-evs-174207825.html",
+    "provided_title": "GM sales rise 4% in 2024, powered by trucks, SUVs, and EVs",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 02:04:27"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/wall-street-top-banks-just-140000186.html",
+    "provided_title": "Wall Street’s Top Banks Just Quit a Once Popular Alliance",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 02:19:40"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/foxconn-fourth-quarter-revenue-15-074825675.html",
+    "provided_title": "Foxconn beats estimates with record fourth-quarter revenue on AI demand",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 02:20:41"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/investors-hyperactive-first-graders-playing-230235493.html",
+    "provided_title": "Investors are like ‘hyperactive first-graders’ playing this schoolhouse game as they try to anticipate the market, strategist says",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 02:41:58"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/warren-buffetts-favorite-internet-stock-024346299.html",
+    "provided_title": "Warren Buffett's favorite internet stock is a 'top pick' with 16% upside in 2025, Citi says",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 03:35:46"
+  },
+  {
+    "url": "https://finance.yahoo.com/m/0c3a2655-0565-36dd-8f6c-473517fcb368/nazi-ties-to-credit-suisse.html",
+    "provided_title": "Nazi Ties to Credit Suisse Ran Deeper Than Was Known, Hidden Files Reveal",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 03:35:46"
+  },
+  {
+    "url": "https://finance.yahoo.com/m/4205eaa9-f620-3a0b-a81a-0e82c7c9fd0b/magnificent-seven-stocks-.html",
+    "provided_title": "Magnificent Seven Stocks: Nvidia Surges Above Key Level; Tesla Rebounds, Apple Extends Sell-Off",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 03:35:46"
+  },
+  {
+    "url": "https://finance.yahoo.com/m/e559a522-6292-3d64-b74d-08d52d5088f2/gen-z-has-a-different-take-on.html",
+    "provided_title": "Gen Z Has a Different Take on Stocks. Young Investors Plunge Into Markets.",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 03:35:46"
+  },
+  {
+    "url": "https://finance.yahoo.com/m/fb35722d-df52-3bb8-8274-fe243273afe9/turkey-strong-armed.html",
+    "provided_title": "Turkey Strong-Armed Inflation. Stocks Feel the Pain.",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 03:35:46"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/pros-cons-home-equity-line-152350376.html",
+    "provided_title": "Pros and cons of a home equity line of credit (HELOC)",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 03:35:46"
+  },
+  {
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/how-to-save-money-193015616.html",
+    "provided_title": "How to save money in 2025: 50 tips to grow your wealth",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 03:35:46"
+  },
+  {
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-sunday-january-5-2025-110001793.html",
+    "provided_title": "Mortgage and refinance rates today, January 5, 2025: Weekly rates fall",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 05:00:54"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/expect-markets-week-100000100.html",
+    "provided_title": "What To Expect in the Markets This Week",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 05:03:57"
+  },
+  {
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/money-market-account-rates-today-sunday-january-5-2025-110056708.html",
+    "provided_title": "Money market account rates today, January 5, 2025 (best account provides 5.00% APY)",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 05:50:35"
+  },
+  {
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/savings-interest-rates-today-sunday-january-5-2025-110019800.html",
+    "provided_title": "Savings interest rates today, January 5, 2025 (best accounts offering 4.75% APY)",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 05:53:38"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/ces-meeting-delta-earnings-jobs-113957312.html",
+    "provided_title": "CES meeting, Delta earnings, jobs report will juice markets",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 06:22:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/14-plus-dividend-stocks-look-114303041.html",
+    "provided_title": "These 14%-Plus Dividend Stocks Look Attractive, Says Analyst",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 06:39:15"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/jobs-report-highlights-first-full-trading-week-of-2025-what-to-know-this-week-123838871.html",
+    "provided_title": "Jobs report highlights first full trading week of 2025: What to know this week",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 06:39:15"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/centerview-may-open-options-record-112850878.html",
+    "provided_title": "Centerview May Be Open to Options After a Record Year, WSJ Says",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 06:53:27"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/germany-inc-seen-defying-downturn-070000244.html",
+    "provided_title": "Germany Inc. seen defying downturn with earnings growth in 2025",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 07:16:45"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/largest-health-insurance-companies-control-120000056.html",
+    "provided_title": "The largest health insurance companies that control nearly 75% of the market, ranked",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 07:31:57"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/3-problems-for-the-stock-price-of-nvidia-rival-amd-133029633.html",
+    "provided_title": "3 problems for the stock price of Nvidia rival AMD",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 07:38:03"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/times-economic-policy-uncertainty-may-103000050.html",
+    "provided_title": "In Times of Economic-Policy Uncertainty, It May Be Best to Avoid Stocks",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 07:50:13"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/trump-fed-seen-risking-127-133000986.html",
+    "provided_title": "Trump, Fed Seen Risking $127 Billion Bond Spree in Latin America",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 07:54:16"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/ai-trade-move-power-cooling-174500070.html",
+    "provided_title": "AI trade will move to power and cooling in 2025: Strategist",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 08:00:21"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/elon-musk-leads-worlds-500-170310093.html",
+    "provided_title": "Elon Musk leads world's 500 richest people in 2024 as wealth grew",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 08:00:21"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/nvidias-blackwell-could-propel-2025-203127516.html",
+    "provided_title": "Nvidia's Blackwell could propel 2025 revenue to $200B: Strategist",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 08:00:21"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/fewer-rate-cuts-boost-banks-154338293.html",
+    "provided_title": "Fewer rate cuts will boost banks in 2025. Here's how.",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 08:00:21"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/who-really-gets-the-h-1b-visas-elon-musk-is-fighting-about-140006311.html",
+    "provided_title": "Who really gets the H-1B visas Elon Musk is fighting about?",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 08:01:22"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/united-airlines-bring-musks-starlink-133603645.html",
+    "provided_title": "United Airlines to bring Musk's Starlink on flights by spring",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 08:02:23"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/trump-fed-seen-risking-127-133000986.html",
+    "provided_title": "Trump, Fed seen risking $127 billion bond spree in Latin America",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 08:10:30"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nyc-congestion-pricing-takes-effect-050833790.html",
+    "provided_title": "NYC congestion pricing takes effect after years of delays",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 08:16:35"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/cathie-wood-buys-10-million-133700979.html",
+    "provided_title": "Cathie Wood buys $10 million of beaten-down tech stock",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 08:23:41"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/china-box-office-takings-drop-050030552.html",
+    "provided_title": "China’s box office takings drop by a quarter as viewers turn to streaming",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 09:21:25"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/ces-meeting-delta-earnings-jobs-113957312.html",
+    "provided_title": "CES tech shindig, earnings, and jobs will juice stocks",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 09:22:26"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/retirement-expert-the-need-for-unpaid-caregivers-is-about-to-skyrocket-152314259.html",
+    "provided_title": "Retirement expert: The need for unpaid caregivers is 'about to skyrocket'",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 09:32:36"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/5-quantum-computing-stocks-investors-140300821.html",
+    "provided_title": "5 quantum computing stocks investors are targeting in 2025",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 09:33:37"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/analysts-think-delta-air-lines-154056763.html",
+    "provided_title": "What Analysts Think of Delta Air Lines Stock Ahead of Earnings",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 10:09:04"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/1-stock-buy-1-stock-152300403.html",
+    "provided_title": "1 Stock to Buy, 1 Stock to Sell This Week: AMD, Constellation Brands",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 10:09:04"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/tker-how-many-times-will-the-fed-cut-rates-is-not-the-right-question-154951668.html",
+    "provided_title": "TKer: 'How many times will the Fed cut rates?' is not the right question",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 10:32:25"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/how-to-have-the-talk-with-aging-parents-about-money-163017336.html",
+    "provided_title": "How to have 'the talk' with aging parents about money",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 11:27:09"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/omeed-malik-spac-said-near-170400655.html",
+    "provided_title": "Omeed Malik’s SPAC Said to Near Deal With Gun Retailer GrabAGun",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 12:30:02"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/warren-buffett-dumped-stocks-built-173302166.html",
+    "provided_title": "Warren Buffett dumped stocks, built a $300 billion cash pile, and updated his death plan in 2024. Here are his 6 highlights.",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 12:34:05"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/3-risks-retailers-watch-2025-152724044.html",
+    "provided_title": "The 3 risks retailers need to watch out for in 2025",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 13:00:27"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/us-exceptionalism-propel-stocks-dollar-180000954.html",
+    "provided_title": "US Exceptionalism Will Propel Stocks, Dollar in 2025: MLIV Pulse",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 13:02:29"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/exclusive-rival-ceo-spread-doubt-190018852.html",
+    "provided_title": "Exclusive-Rival CEO spread doubt about Nippon Steel deal prospects to Wall Street, documents allege",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 13:30:51"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/italy-plans-1-5-billion-191056507.html",
+    "provided_title": "Italy Plans $1.5 Billion SpaceX Telecom Security Services Deal",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 13:37:57"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/exclusive-rival-ceo-spread-doubt-190018852.html",
+    "provided_title": "Rival CEO spread doubt about Nippon Steel deal prospects to Wall Street, documents allege",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 13:43:04"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/italy-plans-1-5-billion-191056507.html",
+    "provided_title": "Italy plans $1.5 billion SpaceX telecom security services deal",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 14:01:19"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/italy-plans-1-5-billion-193254577.html",
+    "provided_title": "Italy plans $1.5 billion SpaceX telecom security services deal, Bloomberg News reports",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 14:03:21"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/dollar-stay-strong-world-keeps-174918785.html",
+    "provided_title": "The dollar will stay strong if the world keeps ‘shoveling all of its savings’ into US stocks, strategist says",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 14:18:33"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/italy-plans-1-5-billion-191056865.html",
+    "provided_title": "Italy Plans $1.6 Billion SpaceX Telecom Security Services Deal",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 14:21:36"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/italy-plans-1-5-billion-193254577.html",
+    "provided_title": "Italy in talks over $1.5 billion SpaceX security services deal, Bloomberg News reports",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 14:28:42"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/biden-decision-us-steel-deal-180750095.html",
+    "provided_title": "Biden Decision on US Steel Deal Followed Divide in His Orbit",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 15:12:19"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/2m-bet-recovery-bill-gates-205521677.html",
+    "provided_title": "'A $2M Bet On Recovery': Bill Gates Quietly Buys 2 Stocks He Believes Will Define 2025's Economic Boom",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 15:16:23"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/bond-traders-see-fraught-ahead-200000784.html",
+    "provided_title": "Bond Traders See Fraught Year Ahead as Trump Shadows Outlook",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 15:18:24"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/aussie-bears-see-drop-60-210000381.html",
+    "provided_title": "Aussie bears see drop to 60 cents as Trump readies China tariffs",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 15:50:52"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/morning-bid-china-two-yield-214714611.html",
+    "provided_title": "Morning Bid: China two-year yield eyes fall below 1.00%",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 16:22:18"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/five-key-charts-watch-global-220000236.html",
+    "provided_title": "Five Key Charts to Watch in Global Commodity Markets This Week",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 16:26:21"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/why-recent-supreme-court-decision-211501098.html",
+    "provided_title": "Why a recent Supreme Court decision could undermine the stock market's biggest bull case for Trump's 2nd term",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 16:35:28"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/yuan-traders-look-pboc-fixing-220204265.html",
+    "provided_title": "Yuan Traders Look to PBOC Fixing to Gauge Level of FX Support",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 16:43:34"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nyc-congestion-pricing-off-quiet-221313752.html",
+    "provided_title": "NYC’s Congestion Pricing Off to Quiet Start With Big Test Coming",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 16:49:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/asian-stocks-set-rise-wall-223155567.html",
+    "provided_title": "Asian Stocks Set to Rise After Wall Street Rebound: Markets Wrap",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 17:25:09"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/austrian-far-kickl-foot-door-230100781.html",
+    "provided_title": "Austrian Far-Right’s Kickl Has Foot in the Door to Lead Nation",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 17:29:12"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/iphone-supplier-tdk-rolls-batteries-220000147.html",
+    "provided_title": "IPhone Supplier TDK Rolls Out New Batteries to Keep Pace With AI",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 17:36:18"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/austrian-far-kickl-foot-door-230100781.html",
+    "provided_title": "Austrian Far Right Leader Kickl Gets Chance to Form Government",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 17:45:26"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/paychex-said-talks-buy-smaller-230557367.html",
+    "provided_title": "Paychex Is Said to Be in Talks to Buy Smaller Rival Paycor",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 17:52:32"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/oil-holds-near-two-month-233007507.html",
+    "provided_title": "Oil Holds Near Two-Month High as Stocks Set to Open Higher",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 18:01:39"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/trader-made-billions-2008-returns-000000716.html",
+    "provided_title": "Trader Who Made Billions in 2008 Returns to Bet on Market Swings",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 18:19:55"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/microsoft-pauses-construction-openai-wisconsin-211206863.html",
+    "provided_title": "Microsoft Pauses Some Construction on OpenAI Wisconsin Data Center",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 18:23:58"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nippon-steel-president-says-suing-000343169.html",
+    "provided_title": "Nippon Steel president says suing US government is an option, NTV reports",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 18:26:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/prediction-artificial-intelligence-ai-stock-104700358.html",
+    "provided_title": "Prediction: This Artificial Intelligence (AI) Stock Will Drop Out of the $1 Trillion Club in 2025",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 18:27:01"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/ask-advisor-im-60-feeling-120000584.html",
+    "provided_title": "Ask an Advisor: I'm Feeling Hopeless at 60 With Only $15K Saved. How Can I Prepare for Retirement?",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 18:27:01"
+  },
+  {
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/cd-rates-today-saturday-january-4-2025-110051719.html",
+    "provided_title": "CD rates today, January 4, 2025 (best account provides 4.25% APY)",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 18:27:01"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/analysts-nvidia-amd-predictions-ahead-152401487.html",
+    "provided_title": "Analysts make Nvidia, AMD predictions ahead of Consumer Electronics Show",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 18:27:01"
+  },
+  {
+    "url": "https://finance.yahoo.com/m/684c930d-1475-3adc-b013-ae604c056ebc/ai-stocks-tech-giants-cloud.html",
+    "provided_title": "AI Stocks: Tech Giants, Cloud Titans Face 'Show Me' Moment. CES 2025 Hype On Tap.",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 18:27:01"
+  },
+  {
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-checking-account-bonus-offers-164946532.html",
+    "provided_title": "Checking account bonus offers and promotions: The 7 best for January 2025 (up to $325)",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 18:27:01"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/3-stocks-tripled-2024-one-165000524.html",
+    "provided_title": "These 3 Stocks Tripled in 2024. Which One Is the Best Buy for 2025?",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 18:27:01"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/trump-haunts-central-banks-primed-000000403.html",
+    "provided_title": "Trump Haunts Central Banks Primed for Wary Rate Cuts in 2025",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 18:29:04"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/china-oil-refineries-face-reckoning-235106629.html",
+    "provided_title": "China Oil Refineries Face Reckoning as Beijing Tackles Overcapacity",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 18:29:04"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/asian-stocks-set-rise-wall-223155567.html",
+    "provided_title": "Asian Stocks Fluctuate After Wall Street Rebound: Markets Wrap",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 18:37:13"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/asia-shares-wary-dollar-upbeat-002753008.html",
+    "provided_title": "Asia shares wary, dollar upbeat before data deluge",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 18:39:15"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/oil-holds-near-two-month-233007507.html",
+    "provided_title": "Oil Rises for Sixth Day as Wider Market Optimism Fuels Bulls",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 18:43:18"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/south-korean-corruption-watchdog-asks-002058099.html",
+    "provided_title": "South Korean Corruption Watchdog Asks Police to Arrest Yoon",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 18:49:23"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/korean-markets-ride-crisis-global-001402852.html",
+    "provided_title": "Korean Markets Ride Out Crisis as Global Debt Funds Keep Buying",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 18:49:23"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/japans-activity-expands-solid-demand-003607260.html",
+    "provided_title": "Japan's service activity expands on solid demand, PMI shows",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 18:54:27"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/gold-holds-decline-fed-officials-003048138.html",
+    "provided_title": "Gold Holds Decline After Fed Officials Express Inflation Concern",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 19:00:31"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/dai-ichi-life-takes-140-150000222.html",
+    "provided_title": "Dai-ichi Life Takes ¥140 Billion Loss Selling Off Long Bonds",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 19:06:36"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/dollar-holds-near-two-high-010158649.html",
+    "provided_title": "Dollar holds near two-year high; yuan under threat",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 19:27:53"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nippon-steel-dips-biden-blocks-000747132.html",
+    "provided_title": "Nippon Steel Slides After Biden Blocks US Steel Takeover",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 19:37:01"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/south-koreas-lg-cns-launches-013231884.html",
+    "provided_title": "South Korea's LG CNS launches IPO for up to $817 million, term sheet says",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 19:38:01"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/asian-stocks-set-rise-wall-223155567.html",
+    "provided_title": "Asian Currencies Hit Two-Decade Low, Stocks Mixed: Markets Wrap",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 19:40:03"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/oil-hovers-highest-since-oct-013518022.html",
+    "provided_title": "Oil hovers at highest since Oct on cold weather, China stimulus",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 19:44:06"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nippon-steel-shares-down-us-014009173.html",
+    "provided_title": "Nippon Steel shares down after US government blocks U.S. Steel purchase",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 19:59:19"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/crypto-2025-outlook-us-adopt-171500884.html",
+    "provided_title": "Crypto 2025 outlook: Will the US adopt bitcoin as strategic asset?",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 20:00:19"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/heres-finances-could-change-2025-164511296.html",
+    "provided_title": "Here's how your finances could change in 2025",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 20:00:19"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/american-airlines-well-set-2025-171500199.html",
+    "provided_title": "American Airlines is well set up for 2025: Raymond James",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 20:00:19"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/iran-sanctions-opec-cuts-top-165838860.html",
+    "provided_title": "Iran sanctions, OPEC cuts: Top oil market drivers for 2025",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 20:00:19"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/china-services-activity-hits-7-015432494.html",
+    "provided_title": "China services activity hits 7-month high but US trade fears dent optimism, Caixin PMI shows",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 20:01:20"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/china-maintains-grip-yuan-fix-013708385.html",
+    "provided_title": "China Maintains Grip on Yuan With Fix Stronger Than 7.2 Level",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 20:03:22"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/oil-holds-near-two-month-233007507.html",
+    "provided_title": "Oil Holds Near Highest Since October on Wider Market Optimism",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 20:14:31"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/chinas-geely-holding-targets-over-015733381.html",
+    "provided_title": "China's Geely Holding targets over 5 million units of annual sales by 2027",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 20:18:34"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/ubs-targets-japan-regional-banks-015900586.html",
+    "provided_title": "UBS Targets Japan’s Regional Banks With Senior Sales Hires",
+    "error": "HTTP error: 404",
+    "input_timestamp": "2025-01-05 20:30:44"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/apple-buy-sell-hold-2025-093000386.html",
+    "provided_title": "Is Apple a Buy, Sell, or Hold in 2025?",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 20:37:50"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/generative-ai-funding-reached-heights-211130019.html",
+    "provided_title": "Generative AI funding reached new heights in 2024",
+    "error": "cannot unpack non-iterable NoneType object",
+    "input_timestamp": "2025-01-05 20:37:50"
+  }
+]
