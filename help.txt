@@ -1,0 +1,142 @@
+# News Article Analysis with Llama 3
+
+A toolkit for extracting, preprocessing, and analyzing news articles using a local Llama 3 server running on LM Studio.
+
+## Setup
+
+1. Make sure you have Python installed on your system.
+2. Install the required dependencies:
+   ```
+   pip install requests fire tqdm aiohttp beautifulsoup4
+   ```
+3. Ensure your Llama 3 server is running on LM Studio at the URL specified in your settings (default: `http://127.0.0.1:1234`)
+
+## Scripts Included
+
+This package contains three main scripts:
+
+1. `ExtractArticleAsync.py` - Extracts articles from websites (currently optimized for Yahoo Finance)
+2. `PreprossessingJson.py` - Cleans up the extracted articles for analysis
+3. `AnalyzeArticles.py` - Sends articles to your local Llama 3 model for analysis
+
+## Workflow
+
+### Step 1: Extract Articles
+
+The `ExtractArticleAsync.py` script extracts articles from websites and saves them to a JSON file:
+
+```bash
+python ExtractArticleAsync.py
+```
+
+This will:
+- Load URLs from `articles.json`
+- Extract content from each URL
+- Save results to `extracted_articles2.json`
+
+### Step 2: Preprocess Articles
+
+The `PreprossessingJson.py` script cleans up the extracted articles:
+
+```bash
+python PreprossessingJson.py --input_file "extracted_articles2.json" --output_file "extracted_articles.json"
+```
+
+This will:
+- Clean and format the JSON data
+- Remove invalid entries
+- Create a properly formatted JSON file for analysis
+
+### Step 3: Analyze Articles
+
+The `AnalyzeArticles.py` script sends the articles to your local Llama 3 model for analysis:
+
+```bash
+python AnalyzeArticles.py --input_file "extracted_articles.json"
+```
+
+## Analysis Options
+
+The `AnalyzeArticles.py` script supports various options:
+
+```
+--input_file        Required. Path to your JSON file containing articles
+--output_dir        Directory to save results (default: auto-generated folder name)
+--llama_url         URL of Llama 3 server (default: http://127.0.0.1:1234/v1/chat/completions)
+--system_prompt     Instructions for the model
+--temperature       Randomness of output (0.0-1.0, default: 0.7)
+--max_tokens        Maximum length of response (default: 100)
+--prompt_template   How to format articles (default: "Title: {title}\n\nContent: {text}")
+--save_prompt       Include original article in output (default: True)
+--verbose           Print progress to console (default: True)
+```
+
+### Example Commands
+
+Basic usage:
+```bash
+python AnalyzeArticles.py --input_file "extracted_articles.json"
+```
+
+Custom output directory:
+```bash
+python AnalyzeArticles.py --input_file "extracted_articles.json" --output_dir "my_results"
+```
+
+Custom instructions:
+```bash
+python AnalyzeArticles.py --input_file "extracted_articles.json" --system_prompt "Rate this article for relevance only, scale 1-10"
+```
+
+Streamlined outputs (no article text in result files):
+```bash
+python AnalyzeArticles.py --input_file "extracted_articles.json" --save_prompt False
+```
+
+## Input File Format
+
+Your input file (`extracted_articles.json`) should be a JSON array of article objects, each with:
+- `title`: Article title
+- `text`: Article content
+- `url` (optional): Source URL
+- `timestamp` (optional): Publication date
+
+Example:
+```json
+[
+  {
+    "title": "Stock Market News Today",
+    "text": "The stock market saw significant gains...",
+    "url": "https://example.com/article1",
+    "timestamp": "2025-01-04 15:33:39"
+  }
+]
+```
+
+## Output
+
+The default analysis generates one text file per article in the output directory. Each file contains:
+- The article title and content (if `save_prompt=True`)
+- Relevance score (1-10)
+- Impactfulness score (1-10)
+
+## Troubleshooting
+
+If you get a "file not found" error, try these steps:
+
+1. Provide the full path to your file:
+   ```bash
+   python AnalyzeArticles.py --input_file "/full/path/to/extracted_articles.json"
+   ```
+
+2. Make sure you're in the correct directory:
+   ```bash
+   cd /path/to/directory/with/files
+   ```
+
+3. Check if the file exists in your current directory:
+   ```bash
+   ls -la
+   ```
+
+To stop a running script, press Ctrl+C in your terminal.

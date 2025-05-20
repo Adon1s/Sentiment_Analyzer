@@ -407,7 +407,7 @@ async def async_main(input_file, output_file, skip_existing=True):
         print(f"\nError: {str(e)}")
 
 
-def main(input_file="articles.json", output_file="extracted_articles.json", skip_existing=True):
+def main(input_file="Z:/articles.json", output_file="extracted_articles.json", skip_existing=True):
     """
     Extract articles from URLs, clean data, and save as a JSON file
     :param input_file: Path to the input file containing article URLs
