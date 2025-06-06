@@ -23,6 +23,50 @@ def analyze_financial_news(json_file):
         # Create DataFrame directly from results
         df = pd.DataFrame(results)
 
+        # ------------------------------------------------------------
+        # Parse and attach publication timestamp & calendar features
+        # ------------------------------------------------------------
+        #
+        # Try the most common timestamp keys first, then fall back to any
+        # DataFrame column containing "date", "time", or "publish".
+        #
+
+        # 1️⃣ Collect raw timestamp strings
+        publication_times = []
+        for article in results:
+            ts = (
+                article.get('published_at')
+                or article.get('publication_time')
+                or article.get('published')
+                or article.get('time_published')
+            )
+            publication_times.append(ts)
+
+        # Create helper column to aid fallback detection
+        df['published_raw'] = publication_times
+
+        # 2️⃣ If we still have no values, scan all columns for a viable timestamp
+        if df['published_raw'].isna().all():
+            candidate_cols = [
+                col for col in df.columns
+                if any(key in col.lower() for key in ('date', 'time', 'publish'))
+            ]
+            for col in candidate_cols:
+                parsed = pd.to_datetime(df[col], utc=True, errors='coerce')
+                if parsed.notna().any():
+                    df['published_raw'] = df[col]
+                    break
+
+        # Final conversion to timezone‑aware datetime
+        df['published_at'] = pd.to_datetime(df['published_raw'], utc=True, errors='coerce')
+
+        # Drop helper if you don’t need it
+        # df.drop(columns=['published_raw'], inplace=True)
+
+        # Calendar-derived columns
+        df['published_date'] = df['published_at'].dt.date
+        df['hour'] = df['published_at'].dt.hour
+
         # Extract scores from the nested dictionaries
         # This avoids using json_normalize with record_path
         relevance_scores = []
@@ -108,6 +152,21 @@ def analyze_financial_news(json_file):
         print("\n=== SCORES BY ARTICLE LENGTH ===")
         print(word_count_analysis)
 
+        # ------------------------------------------------------------
+        # Daily aggregation & rolling‑window trends
+        # ------------------------------------------------------------
+        daily_agg = valid_df.groupby('published_date').agg(
+            relevance_mean=('relevance_score', 'mean'),
+            impact_mean=('impact_score', 'mean'),
+            article_count=('article_id', 'count')
+        )
+        print("\n=== DAILY AVERAGES (first 10 rows) ===")
+        print(daily_agg.head(10))
+
+        rolling_7d = daily_agg[['relevance_mean', 'impact_mean']].rolling(window=7, min_periods=1).mean()
+        print("\n=== 7‑DAY ROLLING AVERAGES (first 10 rows) ===")
+        print(rolling_7d.head(10))
+
         # Create visualizations
         create_visualizations(valid_df, data.get('metadata', {}).get('analysis_timestamp', 'Unknown'))
 
@@ -189,6 +248,41 @@ def create_visualizations(df, timestamp):
         plt.title('Correlation Between Metrics')
         plt.savefig('correlation_heatmap.png', dpi=300, bbox_inches='tight')
         print("Correlation heatmap saved as 'correlation_heatmap.png'")
+
+        # 4. 7‑day rolling average of relevance & impact scores
+        if 'published_date' in df.columns and df['published_date'].notna().any():
+            daily_mean = df.groupby('published_date')[['relevance_score', 'impact_score']].mean()
+            rolling_mean = daily_mean.rolling(window=7, min_periods=1).mean()
+
+            plt.figure(figsize=(12, 6))
+            rolling_mean.plot(ax=plt.gca())
+            plt.title('7‑Day Rolling Average of Relevance & Impact')
+            plt.ylabel('Average Score')
+            plt.xlabel('Date')
+            plt.savefig('rolling_avg_scores.png', dpi=300, bbox_inches='tight')
+            print("Rolling average plot saved as 'rolling_avg_scores.png'")
+
+        # 5. Heatmap of article counts by hour & date
+        if 'hour' in df.columns:
+            heatmap_data = (
+                df[df['hour'].notna()]
+                .pivot_table(
+                    index='hour',
+                    columns='published_date',
+                    values='article_id',
+                    aggfunc='count',
+                    fill_value=0,
+                )
+                .sort_index()
+            )
+
+            plt.figure(figsize=(14, 6))
+            sns.heatmap(heatmap_data, cmap='YlGnBu')
+            plt.title('Article Counts by Hour and Date')
+            plt.xlabel('Date')
+            plt.ylabel('Hour of Day')
+            plt.savefig('hourly_article_heatmap.png', dpi=300, bbox_inches='tight')
+            print("Hourly article heatmap saved as 'hourly_article_heatmap.png'")
 
     except Exception as e:
         print(f"Error creating visualizations: {e}")
